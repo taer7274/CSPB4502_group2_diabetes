@@ -32,3 +32,5 @@ This knowledge can be applied to inform the general public about their relative 
 
 
 ### Final Project Paper
+
+https://github.com/taer7274/CSPB4502_group2_diabetes/blob/main/02_DiabetesPrediction%26RiskFactorAnalysis_Part4.pdf
