@@ -29,7 +29,8 @@ These sets of predictors do mirror existing screening standards, either directly
 ### Application of this Knowledge
 This knowledge can be applied to inform the general public about their relative risk for diabetes and prediabetes, especially since prediabetes often goes undiagnosed. Additionally, the findings of the diabetes logistic regression model can be used to identify future research areas for additional attributes of investigation to understand why significant predictors of diabetes were not associated with prediabetes, if the assumption is made that prediabetes is a preceding state to diabetes. Finally, these findings replicate existing research into diabetes and prediabetes risk factors, providing further evidence of the comorbidity of prediabetes and diabetes with many deleterious health outcomes compared to the general population. 
 
-
+### Video Presentation
+https://github.com/taer7274/CSPB4502_group2_diabetes/blob/main/Group02_DiabetesPrediction%26RiskFactorAnalysis_Part6_Video.mp4
 
 ### Final Project Paper
 
