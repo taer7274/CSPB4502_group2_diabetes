@@ -1,4 +1,4 @@
-# Prediabetes Prediction and Risk Factor Analysis
+# Diabetes Prediction and Risk Factor Analysis
 
 ### Team Members
 Taylor Erickson 
